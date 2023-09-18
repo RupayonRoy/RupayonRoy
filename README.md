@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RupayonRoy
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Computer Science and Engineering 
-- 💞️ I’m looking to collaborate on small projects on Python or Java
+- 👀 I’m interested in Coding and Data Science, AI/ML
+- 🌱 Working as a Data Engineer @ TCS
+- 💞️ I’m looking to collaborate on small projects on Data Science 
 - 📫 How to reach me ? Mail to : roy.rupayon@gmail.com
 
 <!---
