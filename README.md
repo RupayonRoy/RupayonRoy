@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RupayonRoy
 - 👀 I’m interested in Coding and Data Science, AI/ML
-- 🌱 Working as a Data Engineer @ TCS
-- 💞️ I’m looking to collaborate on small projects on Data Science 
+- 🌱 Working as a GenAI Engineer at Cognizant
+- 💞️ I’m looking to collaborate on small projects on practical applications of AI 
 - 📫 How to reach me ? Mail to : roy.rupayon@gmail.com
 
 <!---
